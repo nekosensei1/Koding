@@ -1,0 +1,19 @@
+Java Plug-in 10.17.2.02
+Using JRE version 1.7.0_17-b02 Java HotSpot(TM) Client VM
+User home directory = C:\Users\THD
+----------------------------------------------------
+c:   clear console window
+f:   finalize objects on finalization queue
+g:   garbage collect
+h:   display this help message
+l:   dump classloader list
+m:   print memory usage
+o:   trigger logging
+q:   hide console
+r:   reload policy configuration
+s:   dump system and deployment properties
+t:   dump thread list
+v:   dump thread stack
+x:   clear classloader cache
+0-5: set trace level to <n>
+----------------------------------------------------
